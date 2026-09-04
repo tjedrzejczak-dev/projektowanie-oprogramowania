@@ -3,3 +3,4 @@ cebula
 czosnek
 chlep
 ledy do komputra
+jakiś magiczny skłodnik
